@@ -1,0 +1,88 @@
+Title         : Projektmanagement
+Author        : Tobias Knöppler
+Logo          : False
+
+[TITLE]
+
+# Definitionen
+## Projekt
+* durch Kunden klar definitertes *Ziel*
+* einmaliges Vorhaben
+* gelenkter Prozess
+* *Einmaligkeit* der Rahmenbedingungen
+  * Temporäre Organisation (definierter Anfangs-/Endtermin)
+  * *Beschränkte* Ressourcen
+
+## Projektmanagement
+* **Aufgabenblock** innerhalb eines Projekts
+  * **klassisches PM:** im Wesentlichen durch eine Person, die Projektaufgaben *delegieren* kann
+  * **agiles PM:** dessen Teilaufgaben in einem Team aufgeteilt werden können
+* Fachlich:
+  * Eigene Disziplin mit speziellem Wissen/Techniken/Werkzeugen
+  * Bestandteile: *Handwerk* und *angewandte Psychologie*
+* Inhaltlich: **Führungsaufgabe**, z.B. Project Team, Management, Kunde
+* Häufig synonym zu Projektleitung
+
+## Rollen eines Projekts
+### innerhalb
+* **klassisches Projekt:**
+  * *Project Manager* führt das Projekt zur Erreichung des *Projektziels*
+  * *Project Management Team* (sofern vorhanden) *unterstützt Project Manager (Pflege Projektplan, Reporting, Dokumentation)
+  * *Project Team* leistet die *Umsetzung*
+    * *Unterstützt* bei einigen *PM Aufgaben*, z.B. Planung, Schätzung, Reporting
+    * meist interdisziplinär, aus Spezialisten besetzt
+
+### außerhalb
+  * **klassisches Projekt:**
+    * *Project Owner*
+      * Definiert das Projektziel, nimmt Ergebnis ab
+      * Definiert Rahmen (*Inhalt*, *Termin*, *Budget*)
+      * Geldgeber (machmal *Budget-Geber* != *Kunde*)
+    * *Project Stakeholder*
+      * Interesse am Projekt, sind jedoch nicht *Project Owner*
+      * Nich immer offensichtlich
+      * i.d.R. direkter oder indirekter Einfluss auf Projekt
+  * Interessenskonflikte von *Project Owner* und *Stakeholdern* möglich
+
+
+## Formalisierung von Rollen
+* Standard: **RACI** (**R**esponse Assignment Matrix \[PMBok\], **L**inear **R**esponsibility **C**hart)
+  * **R**esponsible, d.h. Durchführungsverantwortung
+  * **A**ccountable, d.h. rechtliche oder kaufmännische Verantwortung
+  * **C**onsulted, d.h. fachliche Sicht
+  * (to be) **I**nformed, d.h. Information an sonstige Stakeholder, z.T. auch Informationsrecht
+* Auch anzutreffen: **AKV** (**A**ufgaben, **K**ompetenzen, **V**erantwortlichkeiten)
+
+### BSP:
+
+|---------|------------|----|---------|---------|-------|---------|---------|-----------|
+| Track   | Activities | PM | PM Team | Subject | Admin | Support | Senior  | Marketing |
+|         |            |    |         | Expert  |       |         | Manage- |           |
+|         |            |    |         | Matter  |       |         | ment    |           |
++:-------:+:----------:+:--:+:-------:+:-------:+:-----:+:-------:+:-------:+:---------:+
+| Overall |            | R  |         |         |       |         | A       |           |
+|---------|------------|----|---------|---------|-------|---------|---------|-----------|
+| 1       | 2          | A  | R       | C       | C     | I       | I       | I         |
+|---------|------------|----|---------|---------|-------|---------|---------|-----------|
+|         | 3          | A  | R       | C       |       |         |         |           |
+|---------|------------|----|---------|---------|-------|---------|---------|-----------|
+|         | 4          | A  | R       | C       | C     | R       |         |           |
+|---------|------------|----|---------|---------|-------|---------|---------|-----------|
+| 2       | 1          | A  | C       | C       | I     |         | I       | C         |
+|---------|------------|----|---------|---------|-------|---------|---------|-----------|
+|         | 2          | A  |         |         |       |         |         | R         |
+|---------|------------|----|---------|---------|-------|---------|---------|-----------|
+
+## Organisationsformen von Unternehmen (etc.)
+* *Linienorganisation*
+  * Strikt hierarchisch, Aufteilung in Zweige (z.B. Forschung, Produktion, Vertrieb)
+* *Matrixorganisation* (2 Dimensionen)
+  * Dimension 1: *Disziplinarische* Führung (alle Software-Entwickler, Designer, etc.)
+  * Dimension 2: *Fachliche Führung* z.B. Produkt A,B,C
+* Unternehmen als *Projektorganisation*
+  * Organisation weitgehend nach Projekten (z.B. Consulting)
+  * Prinzipiell erzeugen die Projekte temporäre Linien -> Namensgebend
+  * Minimale Aufbauorganisation,d.h. es gibt einen kleinern Organisationskern, der die Projekte überdauert
+
+##Projektorganisation
+* entweder Organisationsform eines Unternehmens (siehe oben) oder Struktur eines Projekts an sich
