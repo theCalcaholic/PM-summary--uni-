@@ -1,0 +1,105 @@
+[INCLUDE=presentation]
+Title         : Projektmanagement Flash Cards
+Sub Title     : In both HTML and PDF
+Author        : Tobias Knöppler
+Reveal Theme  : simple
+Beamer Theme  : singapore
+Css         : flashcards-custom-style.css
+HTML Header : <style>ul li { list-style-type: none !important; } ul li:before { content: '\2610\2003'; } table { font-size: 0.6em !important; }</style> 
+
+
+
+[TITLE]
+
+
+#Content
+
+[TOC]
+
+## Wie ist ein Projekt definiert?
+
+* Alles ist ein Projekt
+* Projekte sind einmalige Vorhaben
+* Projekte haben stets ein Projekt Büro
+* Projekte sind gekennzeichnet durch die Einmaligkeit der Rahmenbedingungen
+
+## Welche Aussagen über Projektmanagement sind zutreffend?
+
+* Projektmanagement ist eine Rolle in einem Projekt.
+* Projektmanagement ist ein geschützter Begriff.
+* Projektmanagement bezeichnet eine eigene Disziplin.
+* Projektmanagement ist eine Führungsaufgabe.
+* Projektmanagement ist in Deutschland nur nach einer Prüfung gestattet.
+* Projektmanagement ist die Anwendung von Wissen, Fertigkeiten, Werkzeugen und Techniken, um Projektanforderungen zu erreichen
+
+## Welche Rollen gibt es stets in einem Projekt? (Mehrere richtige Antworten)
+* Software EntwicklerIn
+* ProjektmanagerIn/ProjektleiterIn
+* MitarbeiterInnen im Projekt-Team
+* MitarbeiterInnen im Projekt-Büro
+
+## Welche Rollen können sich im Projektteam und welche im Projektumfeld finden? (Zuordnungsaufgabe)
+
+### Kategorien
+
+a. Im Projekt: &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;___________
+b. Im Projektumfeld: _______________
+
+---
+### Auswahl:
+
+1. ProjektmanagerIn
+2. MitarbeiterInnen im Projekt-Team
+3. MitarbeiterInnen im Projektbüro
+4. Mitglieder des Lenkungsausschusses
+5. Project Owner / Kunde(n)
+6. Sonstige Stakeholder
+
+## Welche Organisationsformen um Projekte in einem unternehmen durchzuführen kennen Sie? (Mehrere richtige Antworten)
+
+* Linienprojektorganisation
+* Matrixprojektorganisation
+* Einflussprojektorganisation
+* Projekte als temporäre Linie
+
+## 
+### Markieren sie in den folgenden Diagrammen die Matrixorganisation und zeichnen sie dort ein Projektteam bestehend aus einem Projekt-ManagerIn und 2 Team-MitgliederInnen in der stärksten Variante ein.
+
+    todo: Add images
+
+## Warum ist ein Verständnis von Projekt- und Unternehmensorganisation in einem Projekt von Bedeutung? (Eine richtige Antwort)
+
+* Weil es uns alle existierenden Stakeholder in dem Prjekt liefert
+* Weil es dem Projekt-Team Orientierung gibt, wie die Entscheidungswege innerhalb und außerhalb des Projekts angelegt sind.
+* Weil die Organisationsform eines Projekts immer der des Untenehmens in dem das Projekt überwiegend ausgeführt wird, entsprechen muss.
+* Weil wir es für die Projektakte zu unserer Absicherung dokumentieren sollten.
+
+## Wie sind Projektphasen definiert? (Mehrere richtige Antworten)
+
+* Eine Projektphase ist ein Zeitabschnitt eines Projekts, der sich eindeutig von anderen Zeitabschnitten eines Projekts unterscheidet.
+* Projektphasen zerlegen Projekte stets in fünf Zeitabschnitte, die in beliebiger Reihenfolge durchlaufen werden können.
+* Projektphasen zerlegen Projekte in Zeitabschnitte, an deren Ende ein entsprechend der Dauer der Projektphase umfangreiches Teilergebnis geliefert wird.
+*Projektphasen können sich in personeller oder Ressourcen-Ausstattung voneinander unterscheiden.
+
+## Tragen sie die Buchstaben (u-e) der Kernprozesse im Projektmanagement in die Grafik ein. Ordnen sie die Aussagen den jeweiligen Prozessen im Projektmanagement zu. (Zuordnungsaufgabe) 
+
+    todo: Add images
+    todo: Add statements
+    todo: Add processes
+
+
+| Prozesse  | Aussagen |
+|:----------+:---------|
+| Initiate  | Der Begriff bezeichnet die Gruppierung aller Prozesse im Projektmanagement, um eine Projektphase oder ein Projekt zu steuern. |
+|-----------|----------|
+| Plan      | Der Begriff bezeichnet die Gruppierung aller Prozesse im Projektmanagement, um den Projektplan auszuführen. |
+|-----------|----------|
+| Execute   | Der Begriff bezeichnet die Gruppierung aller Prozesse im Projektmanagement, um eine Projektphase zu starten. |
+|-----------|----------|
+| Close     |          |
+|-----------|----------|
+| Monitor & |          |
+| Control   |          |
+|-----------|----------|
+
+## Worin
